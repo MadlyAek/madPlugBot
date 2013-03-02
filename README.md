@@ -1,15 +1,15 @@
-madPlugBot v.0.5
+<b>madPlugBot v.0.5</b>
 
-madPlugBot for bot, multi session (many many).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;madPlugBot for bot, multi session (many many).
 
-how to use:
+<b>how to use:</b>
 
-1. install addons/extension.
+1 install addons/extension.
    
    - firefox install greasemonkey.
    
    - chrome  install tampermonkey.
 
-2. copy code to addons/extension.
+2 copy code to addons/extension.
 
 [use Plugbot(connergdavis) http://github.com/connergdavis/Plugbot]
