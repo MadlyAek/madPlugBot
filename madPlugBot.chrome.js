@@ -86,10 +86,10 @@ $().ready(function(){
 	        }
 	    });
 	    $("#MadD").click(function () {//del all
-	        window.location = location.href + "?MadD";
+	        window.location = (location.href).split("?")[0] + "?MadD";
 	    });
 	    $("#MadE").click(function () {//del vdo
-	        window.location = location.href + "?MadE";
+	        window.location = (location.href).split("?")[0] + "?MadE";
 	    });
 	    $("#MadF").click(function () {//del vdo
 	        _M.plugBot();
