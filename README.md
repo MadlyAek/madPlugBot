@@ -6,9 +6,9 @@ how to use:
 
 1. install addons/extension.
    
-#firefox install greasemonkey.
+   - firefox install greasemonkey.
    
-#chrome  install tampermonkey.
+   - chrome  install tampermonkey.
 
 2. copy code to addons/extension.
 
