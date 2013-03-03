@@ -131,7 +131,7 @@ $().ready(function(){
         }, 1000 * 2);
         setTimeout(function () {
             window.location = location.href;
-        }, 1000 * 60 * $.randomBetween(10, 20));//min
+        }, 1000 * 60 * $.randomBetween(_M.id["minMinute"], _M.id["maxMinute"]));//min
 	    //},1000*30);//min
         _M.plugBotCheck();
 	}
