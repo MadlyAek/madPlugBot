@@ -39,7 +39,7 @@ $().ready(function(){
 	}
 	MAD.prototype.checkJquery = function () { alert($().jquery); };
 	MAD.prototype.blockAlert = function () {
-	    window.alert = function () { };
+	    window.alert = function () {window.location = location.href;};
 	}
 	MAD.prototype.menu = function () {
 	    var _txt = "<br><span style='cursor:pointer;color:green;'>";
