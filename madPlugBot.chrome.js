@@ -34,8 +34,8 @@ $().ready(function(){
         , plugBot: "plugbot"
         , vdo: "playback"
         , anime: "canvas"
-        , minMinute: 10
-        , maxMinute: 15
+        , minMinute: 60
+        , maxMinute: 80
 	}
 	MAD.prototype.checkJquery = function () { alert($().jquery); };
 	MAD.prototype.blockAlert = function () {
